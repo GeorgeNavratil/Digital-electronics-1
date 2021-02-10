@@ -1,3 +1,9 @@
+## My DE1 repisitory link
+
+[Click here](https://github.com/GeorgeNavratil/Digital-electronics-1)
+
+<br>
+
 # De Morgan's laws
 
 ## Table
