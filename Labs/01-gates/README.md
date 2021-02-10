@@ -2,8 +2,6 @@
 
 [Click here](https://github.com/GeorgeNavratil/Digital-electronics-1)
 
-<br>
-
 # De Morgan's laws
 
 ## Table
@@ -17,8 +15,6 @@
 | 1 | 0 | 1 | 1 |
 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 1 | 0 |
-
-<br>
 
 ## Code
 
