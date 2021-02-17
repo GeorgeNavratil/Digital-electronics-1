@@ -27,6 +27,6 @@
 
 <br>
 
-_equals_SoP = !a!b!c!d + !dc!ba + d!cb!a + dcba_
+equals_SoP = !a!b!c!d + !dc!ba + d!cb!a + dcba
 
-_less_SoP = (d+c+b+a) (d+!c+b+a) (d+!c+b+!a) (!d+c+b+a) (!d+c+b+!a) (!d+c+!+a) (!d+!c+b+a) (!d+!c+b+!a) (!d+!c+!b+a) (!d+!c+!b+!a)_
+less_SoP = (d+c+b+a) (d+!c+b+a) (d+!c+b+!a) (!d+c+b+a) (!d+c+b+!a) (!d+c+!+a) (!d+!c+b+a) (!d+!c+b+!a) (!d+!c+!b+a) (!d+!c+!b+!a)
