@@ -1,6 +1,6 @@
 ## My DE1 repisitory link
 
-[Click here](https://github.com/GeorgeNavratil/Digital-electronics-1)
+[DE1 - Jiří Navrátil 222721](https://github.com/GeorgeNavratil/Digital-electronics-1)
 
 # Combinational logic
 
