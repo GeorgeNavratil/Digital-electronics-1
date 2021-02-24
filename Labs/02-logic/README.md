@@ -39,6 +39,8 @@ less_PoS = (d+c+b+a) (d+!c+b+a) (d+!c+b+!a) (!d+c+b+a) (!d+c+b+!a) (!d+c+!+a) (!
 
 ![K-map equals](Images/equals.png)
 
+equals_SoP = !a!b!c!d + !dc!ba + d!cb!a + dcba
+
 ### Karnaugh map for "greater than" function
 
 ![K-map greater than](Images/greater_SoP_min.png)
